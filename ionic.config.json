@@ -1,5 +1,7 @@
 {
   "name": "sleeptracker",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
 }
